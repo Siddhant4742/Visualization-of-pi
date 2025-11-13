@@ -13,7 +13,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
-    "@rollup/rollup-win32-x64-msvc": "^4.53.2",
     "vite": "^5.0.8"
   }
 }
